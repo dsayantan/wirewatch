@@ -1,6 +1,6 @@
 {
  "day": "2026-10-03",
- "stamp": "03 Oct 2026, 09:02",
+ "stamp": "03 Oct 2026, 09:31",
  "papers": [
   {
    "key": "toi",
@@ -10,7 +10,8 @@
    "edition": "Delhi",
    "url": "https://epaper.indiatimes.com/timesepaper/publication-the-times-of-india,city-delhi.cms",
    "img": "epaper/toi.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "ht",
@@ -20,7 +21,8 @@
    "edition": "Delhi",
    "url": "https://epaper.hindustantimes.com/edition/delhi",
    "img": "epaper/ht.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "hindu",
@@ -30,7 +32,8 @@
    "edition": "Delhi",
    "url": "https://epaper.thehindu.com/",
    "img": "epaper/hindu.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "ie",
@@ -40,7 +43,8 @@
    "edition": "Delhi",
    "url": "https://epaper.indianexpress.com/",
    "img": "",
-   "status": "link only (the e-paper needs a sign-in)"
+   "status": "link only (the e-paper needs a sign-in)",
+   "page": 1
   },
   {
    "key": "telegraph",
@@ -50,7 +54,8 @@
    "edition": "Kolkata",
    "url": "https://epaper.telegraphindia.com/calcutta-edition/29/2026-10-03/page-1.html",
    "img": "epaper/telegraph.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "statesman",
@@ -60,7 +65,8 @@
    "edition": "Kolkata",
    "url": "https://epaper.thestatesman.com/t/9247/",
    "img": "epaper/statesman.jpg",
-   "status": "ok"
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "tribune",
@@ -70,7 +76,8 @@
    "edition": "Delhi",
    "url": "https://epaper.tribuneindia.com/t/690/",
    "img": "epaper/tribune.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "dh",
@@ -80,7 +87,8 @@
    "edition": "Bengaluru",
    "url": "https://epaper.deccanherald.com/",
    "img": "epaper/dh.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "nie",
@@ -90,7 +98,8 @@
    "edition": "Chennai",
    "url": "https://epaper.newindianexpress.com/t/3353/",
    "img": "epaper/nie.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "dc",
@@ -100,7 +109,8 @@
    "edition": "Hyderabad",
    "url": "http://epaper.deccanchronicle.com/states.aspx",
    "img": "epaper/dc.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "et",
@@ -110,7 +120,8 @@
    "edition": "Delhi",
    "url": "https://epaper.indiatimes.com/timesepaper/publication-the-economic-times,city-delhi.cms",
    "img": "epaper/et.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "mint",
@@ -120,7 +131,8 @@
    "edition": "Delhi",
    "url": "https://epaper.livemint.com/edition/delhi",
    "img": "epaper/mint.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "bs",
@@ -130,7 +142,8 @@
    "edition": "Delhi",
    "url": "https://epaper.business-standard.com/",
    "img": "",
-   "status": "link only (the e-paper needs a sign-in)"
+   "status": "link only (the e-paper needs a sign-in)",
+   "page": 1
   },
   {
    "key": "jagran",
@@ -140,7 +153,8 @@
    "edition": "Delhi",
    "url": "https://epaper.jagran.com/03-oct-2026-4-delhi-city-edition-delhi-city-page-1.html",
    "img": "epaper/jagran.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "bhaskar",
@@ -150,7 +164,8 @@
    "edition": "National",
    "url": "https://www.bhaskar.com/epaper",
    "img": "epaper/bhaskar.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "amarujala",
@@ -160,7 +175,8 @@
    "edition": "Delhi",
    "url": "https://epaper.amarujala.com/delhi-city",
    "img": "epaper/amarujala.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "hindustan",
@@ -170,7 +186,8 @@
    "edition": "Delhi",
    "url": "https://epaper.livehindustan.com/edition/delhi",
    "img": "epaper/hindustan.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "patrika",
@@ -180,7 +197,8 @@
    "edition": "New Delhi",
    "url": "https://www.epatrika.com/",
    "img": "epaper/patrika.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "nbt",
@@ -190,7 +208,8 @@
    "edition": "Delhi",
    "url": "https://epaper.navbharattimes.com/",
    "img": "epaper/nbt.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "jansatta",
@@ -200,7 +219,8 @@
    "edition": "Delhi",
    "url": "https://epaper.jansatta.com/t/820/latest/Delhi",
    "img": "epaper/jansatta.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "prabhat",
@@ -210,7 +230,8 @@
    "edition": "Kolkata",
    "url": "https://epaper.prabhatkhabar.com/kolkata/kolkata-city/2026-10-03/1",
    "img": "epaper/prabhat.jpg",
-   "status": "ok"
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "abp",
@@ -220,7 +241,8 @@
    "edition": "Kolkata",
    "url": "https://epaper.anandabazar.com/calcutta-north/15/2026-10-03/page-1.html",
    "img": "epaper/abp.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "pratidin",
@@ -230,7 +252,8 @@
    "edition": "Kolkata",
    "url": "https://epaper.sangbadpratidin.in/",
    "img": "epaper/pratidin.jpg",
-   "status": "ok"
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "manorama",
@@ -240,7 +263,8 @@
    "edition": "Kottayam",
    "url": "https://epaper.manoramaonline.com/",
    "img": "epaper/manorama.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "mathrubhumi",
@@ -250,7 +274,8 @@
    "edition": "Kozhikode",
    "url": "https://epaper.mathrubhumi.com/",
    "img": "epaper/mathrubhumi.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "dinamalar",
@@ -260,7 +285,8 @@
    "edition": "Chennai",
    "url": "https://ipaper.dinamalar.com/",
    "img": "epaper/dinamalar.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "thanthi",
@@ -270,7 +296,8 @@
    "edition": "Chennai",
    "url": "https://epaper.dailythanthi.com/",
    "img": "epaper/thanthi.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "eenadu",
@@ -280,7 +307,8 @@
    "edition": "Telangana",
    "url": "https://epaper.eenadu.net/",
    "img": "epaper/eenadu.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "sakshi",
@@ -290,7 +318,8 @@
    "edition": "Andhra Pradesh",
    "url": "http://epaper.sakshi.com/",
    "img": "epaper/sakshi.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "prajavani",
@@ -300,7 +329,8 @@
    "edition": "Bengaluru",
    "url": "https://epaper.prajavani.net/",
    "img": "epaper/prajavani.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "vk",
@@ -310,7 +340,8 @@
    "edition": "Bengaluru",
    "url": "https://www.vijaykarnatakaepaper.com/",
    "img": "epaper/vk.jpg",
-   "status": "ok"
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "lokmat",
@@ -320,7 +351,8 @@
    "edition": "Mumbai",
    "url": "https://epaper.lokmat.com/",
    "img": "epaper/lokmat.jpg",
-   "status": "ok"
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "loksatta",
@@ -330,7 +362,8 @@
    "edition": "Mumbai",
    "url": "https://epaper.loksatta.com/",
    "img": "epaper/loksatta.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "gs",
@@ -340,7 +373,8 @@
    "edition": "Ahmedabad",
    "url": "https://epaper.gujaratsamachar.com/ahmedabad/03-10-2026/1",
    "img": "epaper/gs.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "divya",
@@ -350,7 +384,8 @@
    "edition": "Ahmedabad",
    "url": "https://www.divyabhaskar.co.in/epaper",
    "img": "epaper/divya.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "ajit",
@@ -360,7 +395,8 @@
    "edition": "Jalandhar",
    "url": "https://www.ajitjalandhar.com/epaper/20261003/1",
    "img": "epaper/ajit.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "ptribune",
@@ -370,7 +406,8 @@
    "edition": "Chandigarh",
    "url": "https://epaper.punjabitribuneonline.com/t/105",
    "img": "epaper/ptribune.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "sambad",
@@ -380,7 +417,8 @@
    "edition": "Bhubaneswar",
    "url": "https://sambadepaper.com/epaper/1/71/2026-10-03/1",
    "img": "",
-   "status": "failed: ConnectionError: https://sambadepaper.com/epaperimages/03102026/03102026-md-hr-1s.jpg"
+   "status": "failed: ConnectionError: https://sambadepaper.com/epaperimages/03102026/03102026-md-hr-1s.jpg",
+   "page": 1
   },
   {
    "key": "dharitri",
@@ -390,7 +428,8 @@
    "edition": "Bhubaneswar",
    "url": "https://dharitriepaper.in/",
    "img": "epaper/dharitri.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "asomiya",
@@ -400,7 +439,8 @@
    "edition": "Guwahati",
    "url": "https://epaper.asomiyapratidin.in/",
    "img": "epaper/asomiya.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "dainikasam",
@@ -410,7 +450,8 @@
    "edition": "Guwahati",
    "url": "https://epaper.dainikasam.in/",
    "img": "epaper/dainikasam.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "inquilab",
@@ -420,7 +461,8 @@
    "edition": "Mumbai",
    "url": "https://epaper.inquilab.com/",
    "img": "epaper/inquilab.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   },
   {
    "key": "siasat",
@@ -430,7 +472,8 @@
    "edition": "Hyderabad",
    "url": "https://epaper.siasat.com/",
    "img": "epaper/siasat.jpg",
-   "status": "ok"
+   "status": "ok",
+   "page": 1
   }
  ]
 }
