@@ -1,6 +1,6 @@
 {
  "day": "2026-10-10",
- "stamp": "10 Oct 2026, 10:04",
+ "stamp": "10 Oct 2026, 14:04",
  "papers": [
   {
    "key": "toi",
@@ -472,8 +472,8 @@
    "edition": "Hyderabad",
    "url": "https://epaper.siasat.com/",
    "img": "epaper/siasat.jpg",
-   "status": "ok (page 1 is an ad wrapper; showing page 3)",
-   "page": 3
+   "status": "ok (kept from earlier run; this run: failed: HTTP 403: https://epaper.siasat.com/api/editions/by-date/1/2026-10-10)",
+   "page": 1
   }
  ]
 }
