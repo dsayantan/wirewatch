@@ -1,6 +1,6 @@
 {
  "day": "2026-10-13",
- "stamp": "13 Oct 2026, 06:03",
+ "stamp": "13 Oct 2026, 10:03",
  "papers": [
   {
    "key": "toi",
@@ -53,8 +53,8 @@
    "lang": "English",
    "edition": "Kolkata",
    "url": "https://epaper.telegraphindia.com/calcutta-edition/29/2026-10-13/page-1.html",
-   "img": "",
-   "status": "today's issue not out yet",
+   "img": "epaper/telegraph.jpg",
+   "status": "ok",
    "page": 1
   },
   {
@@ -427,8 +427,8 @@
    "lang": "Odia",
    "edition": "Bhubaneswar",
    "url": "https://dharitriepaper.in/",
-   "img": "",
-   "status": "today's issue not out yet",
+   "img": "epaper/dharitri.jpg",
+   "status": "ok",
    "page": 1
   },
   {
@@ -449,9 +449,9 @@
    "lang": "Assamese",
    "edition": "Guwahati",
    "url": "https://epaper.dainikasam.in/",
-   "img": "",
-   "status": "today's issue not out yet",
-   "page": 1
+   "img": "epaper/dainikasam.jpg",
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
+   "page": 3
   },
   {
    "key": "inquilab",
