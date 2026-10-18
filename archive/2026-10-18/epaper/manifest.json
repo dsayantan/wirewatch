@@ -1,6 +1,6 @@
 {
  "day": "2026-10-18",
- "stamp": "18 Oct 2026, 10:04",
+ "stamp": "18 Oct 2026, 14:05",
  "papers": [
   {
    "key": "toi",
@@ -230,7 +230,7 @@
    "edition": "Kolkata",
    "url": "https://epaper.prabhatkhabar.com/kolkata/kolkata-city/2026-10-18/1",
    "img": "epaper/prabhat.jpg",
-   "status": "ok (kept from earlier run; this run: today's issue not out yet)",
+   "status": "ok",
    "page": 1
   },
   {
