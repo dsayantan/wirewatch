@@ -1,6 +1,6 @@
 {
  "day": "2026-10-20",
- "stamp": "20 Oct 2026, 10:04",
+ "stamp": "20 Oct 2026, 14:03",
  "papers": [
   {
    "key": "toi",
@@ -439,7 +439,7 @@
    "edition": "Guwahati",
    "url": "https://epaper.asomiyapratidin.in/",
    "img": "epaper/asomiya.jpg",
-   "status": "ok",
+   "status": "ok (kept from earlier run; this run: failed: pattern not found: asomiya pratidin mapimage)",
    "page": 1
   },
   {
