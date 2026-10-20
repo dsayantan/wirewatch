@@ -1,6 +1,6 @@
 {
  "day": "2026-10-20",
- "stamp": "20 Oct 2026, 06:04",
+ "stamp": "20 Oct 2026, 10:04",
  "papers": [
   {
    "key": "toi",
@@ -218,8 +218,8 @@
    "lang": "Hindi",
    "edition": "Delhi",
    "url": "https://epaper.jansatta.com/t/820/latest/Delhi",
-   "img": "",
-   "status": "today's issue not out yet",
+   "img": "epaper/jansatta.jpg",
+   "status": "ok",
    "page": 1
   },
   {
@@ -372,8 +372,8 @@
    "lang": "Gujarati",
    "edition": "Ahmedabad",
    "url": "https://epaper.gujaratsamachar.com/ahmedabad/20-10-2026/1",
-   "img": "",
-   "status": "failed: pattern not found: gujarat samachar AHM-01",
+   "img": "epaper/gs.jpg",
+   "status": "ok",
    "page": 1
   },
   {
