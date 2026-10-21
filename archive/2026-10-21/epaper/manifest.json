@@ -1,6 +1,6 @@
 {
  "day": "2026-10-21",
- "stamp": "21 Oct 2026, 18:04",
+ "stamp": "21 Oct 2026, 22:04",
  "papers": [
   {
    "key": "toi",
@@ -131,7 +131,7 @@
    "edition": "Delhi",
    "url": "https://epaper.livemint.com/edition/delhi",
    "img": "epaper/mint.jpg",
-   "status": "ok",
+   "status": "ok (kept from earlier run; this run: today's issue not out yet)",
    "page": 1
   },
   {
