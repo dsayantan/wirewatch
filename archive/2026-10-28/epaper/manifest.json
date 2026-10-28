@@ -1,6 +1,6 @@
 {
  "day": "2026-10-28",
- "stamp": "28 Oct 2026, 18:04",
+ "stamp": "28 Oct 2026, 22:04",
  "papers": [
   {
    "key": "toi",
@@ -10,8 +10,8 @@
    "edition": "Delhi",
    "url": "https://epaper.indiatimes.com/timesepaper/publication-the-times-of-india,city-delhi.cms",
    "img": "epaper/toi.jpg",
-   "status": "ok (page 1 is an ad wrapper; showing page 3)",
-   "page": 3
+   "status": "ok (kept from earlier run; this run: failed: 'signedCookies')",
+   "page": 1
   },
   {
    "key": "ht",
@@ -120,8 +120,8 @@
    "edition": "Delhi",
    "url": "https://epaper.indiatimes.com/timesepaper/publication-the-economic-times,city-delhi.cms",
    "img": "epaper/et.jpg",
-   "status": "ok (page 1 is an ad wrapper; showing page 3)",
-   "page": 3
+   "status": "ok (kept from earlier run; this run: failed: 'signedCookies')",
+   "page": 1
   },
   {
    "key": "mint",
