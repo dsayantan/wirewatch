@@ -1,6 +1,6 @@
 {
  "day": "2026-11-01",
- "stamp": "01 Nov 2026, 10:05",
+ "stamp": "01 Nov 2026, 14:04",
  "papers": [
   {
    "key": "toi",
@@ -21,7 +21,7 @@
    "edition": "Delhi",
    "url": "https://epaper.hindustantimes.com/edition/delhi",
    "img": "epaper/ht.jpg",
-   "status": "ok (page 1 is an ad wrapper; showing page 3 — p3 also an ad, p5 also an ad)",
+   "status": "ok (page 1 is an ad wrapper; showing page 3)",
    "page": 3
   },
   {
