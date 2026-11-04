@@ -1,6 +1,6 @@
 {
  "day": "2026-11-04",
- "stamp": "04 Nov 2026, 10:04",
+ "stamp": "04 Nov 2026, 14:04",
  "papers": [
   {
    "key": "toi",
@@ -450,7 +450,7 @@
    "edition": "Guwahati",
    "url": "https://epaper.dainikasam.in/",
    "img": "epaper/dainikasam.jpg",
-   "status": "ok",
+   "status": "ok (kept from earlier run; this run: failed: ConnectionError: https://epaper.dainikasam.in/site/e-papers/pages/2026-11-04?category_sequence=1)",
    "page": 1
   },
   {
