@@ -1,6 +1,6 @@
 {
  "day": "2026-11-17",
- "stamp": "17 Nov 2026, 10:07",
+ "stamp": "17 Nov 2026, 14:05",
  "papers": [
   {
    "key": "toi",
@@ -395,7 +395,7 @@
    "edition": "Jalandhar",
    "url": "https://www.ajitjalandhar.com/epaper/20261117/1",
    "img": "epaper/ajit.jpg",
-   "status": "ok (kept from earlier run; this run: failed: ConnectionError: https://static.ajitjalandhar.com/pages/20261117/1/1/1_page.jpg)",
+   "status": "ok",
    "page": 1
   },
   {
